@@ -6,6 +6,10 @@ If by the end of this experience you for some reason want to shove money down my
 # Installation
 First of all, try not to be horny when actually installing this list, otherwise you may not actually read the installation instructions. It keeps happening. Stop being horny
 
+Secondly, launch the game, like, from steam. This ensures that wabbajack won't say it can't find the game.
+
+Note: if for some reason you have the game on epic (why), it won't work unless you transplant the files for butchers circus from a steam copy to the epic copy. How you do this is up to you, but buying the game on steam to transplant those files then refunding is *technically* ok
+
 Adjust the Installation Location to a directory located on the root directory of one of your drives
 
 For example, this might be "C:\Degenerate", "D:\Degenerate", etc.
